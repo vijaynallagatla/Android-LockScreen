@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyLocker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnTemp">Temp</string>
+    <string name="title_activity_activity_settings">ActivitySettings</string>
+    <string name="title_activity_activity_select_images">ActivitySelectImages</string>
+    <string name="txtSetDefault">Set Default Locker</string>
+    <string name="overscroll_edge">Line</string>
+    <string name="txtSecurityQsn">Security Unlock Question</string>
+    <string name="txtImages">Select Background Image</string>
+    <string name="txtVibrate">Vibrate</string>
+    <string name="txtSound">Sound</string>
+    <string name="txtAbout">About</string>
+    <string name="txtPattern">Set Pattern</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_next">NextActivity</string>
+    <string name="txtCustomise">Customize LockScreen</string>
+    <string name="title_activity_set_pattern">SetPattern</string>
+    <string name="txtPatternNote">Note : Select number of patterns and set the swiping pattern </string>
+    <string name="btnSetPattern">Save</string>
+    <string name="btnResetPattern">Reset</string>
+    <string name="title_activity_security_qsn">SecurityQsn</string>
+
+</resources>
